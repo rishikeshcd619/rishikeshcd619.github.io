@@ -1,43 +1,95 @@
-# Rishikesh's Portfolio Website
-
 ![Rishikesh's Portfolio Banner](./public/banner.png)
 
-[Checkout the roadmap/initial design here](https://www.figma.com/design/56hODoGFDzZfZduBPfQeBg/New-Portfolio?node-id=18-1550&t=73vRMGTW0gspTSND-1)
+# Rishikesh — Full-Stack Developer Portfolio
 
-### TL;DR
+A modern portfolio website showcasing my professional experience in web, mobile, and backend development, built with Next.js and TypeScript.
 
-Yes, you can fork this repo. Please give credit to the original author. Thanks!
+This repository highlights selected projects, technical skills, and engineering practices I use to build scalable, production-ready applications.
 
-## Installation & Set Up
+## Live Portfolio
 
-First, run the development server:
+[https://rishikeshcd619.github.io/](https://rishikeshcd619.github.io/)
+
+## What This Portfolio Demonstrates
+
+* Real-world full-stack development experience
+* Strong fundamentals in frontend architecture
+* Scalable backend integration patterns
+* Clean, maintainable, and modular code
+* Performance-focused and SEO-friendly web applications
+* Professional engineering standards and documentation
+
+## Tech Stack
+
+### Core Technologies
+
+* **Next.js** – Server-side rendering, routing, and performance optimization
+* **TypeScript** – Type safety and maintainable codebases
+
+### Development Practices
+
+* Component-driven architecture
+* Modular and reusable code
+* Responsive and accessible UI
+* Production-ready project structure
+
+### Deployment
+
+* Vercel / Cloud-ready setup (Deployed on GitHub Pages)
+
+## What You’ll Find in This Repo
+
+* Well-structured Next.js project
+* Typed components and utilities
+* Clean UI with responsive design
+* Scalable folder architecture
+* Optimized configuration for modern web apps
+
+## Getting Started (For Reviewers)
 
 ```bash
 pnpm install
 pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open: [http://localhost:3000](http://localhost:3000)
 
-## Contributing
-If you'd like to contribute or suggest improvements, feel free to open an issue or submit a pull request. All contributions are welcome!
+## Who This Portfolio Is For
 
-### Credits
-This portfolio was built using a template originally created by [Tajmirul](https://tajmirul.site/). 
-I have customized it with my own projects, branding, and Next.js configurations.
+* Recruiters evaluating Full-Stack / Frontend Engineers
+* Hiring managers reviewing real project structure
+* Teams looking for developers experienced in modern web stacks
 
-## Forking this repo (please read!)
+## Contributions
 
-Many people have contacted me asking me if they can use this code for their own website, and the answer to that question is usually **yes, with attribution**.
+Suggestions and improvements are welcome via:
 
-I value keeping my site open source, but as you all know, _**plagiarism is bad**_. It's always disheartening whenever I find that someone has copied my site without giving me credit. I spent a non-trivial amount of effort building and designing this iteration of my website, and I am proud of it! All I ask of you all is to not claim this effort as your own.
+* Issues
+* Pull requests
 
-Please also note that I did not build this site with the intention of it being a starter theme, so if you have questions about implementation, please refer to the [Next.js docs](https://nextjs.org/docs).
+## Forking & Usage Policy
 
-If you like my work, give it a star⭐.
+You may fork this repository for learning or inspiration with attribution.
 
-## Credit
-_This readme is inspired from [Brittany Chiang's github](https://github.com/bchiang7/v4)_
+This portfolio reflects personal effort in design, customization, and engineering.
+Please do not present this work as your own.
+
+## Credits
+
+* Base template by [Tajmirul](https://tajmirul.site/)
+* Custom implementation, projects, and branding by [Rishikesh](https://github.com/rishikeshcd619)
+* README inspired by [Brittany Chiang](https://github.com/bchiang7/v4)
 
 ## License
-This project is open source and available under the [MIT License](https://github.com/rishikeshcd619/rishikeshcd619.github.io/blob/main/LICENSE).
+
+MIT License — open source and free to use with attribution.
+
+## Contact
+
+* Email: [rishikeshcd619@gmail.com](mailto:rishikeshcd619@gmail.com)
+* LinkedIn: [linkedin.com/in/rishikesh-cd](https://www.linkedin.com/in/rishikesh-cd)
+* GitHub: [github.com/rishikeshcd619](https://github.com/rishikeshcd619)
+
+### If you’re a recruiter
+
+Feel free to explore the codebase and reach out — I’m always open to discussing impactful engineering roles.
