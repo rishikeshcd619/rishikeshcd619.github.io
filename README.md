@@ -8,7 +8,7 @@ This repository highlights selected projects, technical skills, and engineering 
 
 ## Live Portfolio
 
-[https://rishikeshcd619.github.io](https://rishikeshcd619.github.io)
+[https://rishikesh-cd.github.io](https://rishikesh-cd.github.io)
 
 ## What This Portfolio Demonstrates
 
@@ -77,7 +77,7 @@ Please do not present this work as your own.
 ## Credits
 
 * Base template by [Tajmirul](https://tajmirul.site/)
-* Custom implementation, projects, and branding by [Rishikesh](https://github.com/rishikeshcd619)
+* Custom implementation, projects, and branding by [Rishikesh](https://github.com/rishikesh-cd)
 * README inspired by [Brittany Chiang](https://github.com/bchiang7/v4)
 
 ## License
@@ -88,7 +88,7 @@ MIT License — open source and free to use with attribution.
 
 * Email: [rishikeshcd619@gmail.com](mailto:rishikeshcd619@gmail.com)
 * LinkedIn: [linkedin.com/in/rishikesh-cd](https://www.linkedin.com/in/rishikesh-cd)
-* GitHub: [github.com/rishikeshcd619](https://github.com/rishikeshcd619)
+* GitHub: [github.com/rishikesh-cd](https://github.com/rishikesh-cd)
 
 ### If you’re a recruiter
 

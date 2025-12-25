@@ -29,7 +29,7 @@ const robotoFlex = Roboto_Flex({
 });
 
 export const metadata: Metadata = {
-    metadataBase: new URL('https://rishikeshcd619.github.io'),
+    metadataBase: new URL('https://rishikesh-cd.github.io'),
     title: 'Visual Storyteller | Rishikesh C D',
     description: 'Personal portfolio of Rishikesh C D',
 };

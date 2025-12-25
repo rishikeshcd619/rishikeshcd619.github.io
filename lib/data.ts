@@ -17,7 +17,7 @@ const mailSubject = encodeURIComponent(
 export const EMAIL_LINK = `mailto:${GENERAL_INFO.email}?subject=${mailSubject}`;
 
 export const SOCIAL_LINKS = [
-    { name: 'github', url: 'https://github.com/rishikeshcd619' },
+    { name: 'github', url: 'https://github.com/rishikesh-cd' },
     { name: 'linkedin', url: 'https://www.linkedin.com/in/rishikesh-cd' },
     { name: 'whatsapp', url: 'https://wa.me/917736638889?text=Hello%20Rishikesh%2C%20I%20reviewed%20your%20portfolio%20and%20am%20interested%20in%20applying%20for%20a%20new%20position.%20I%20am%20reaching%20out%20about%3A%20[Job%20Title/Role].%20My%20name%20is%20[Your%20Name/Company%20Name].' },
 ];
